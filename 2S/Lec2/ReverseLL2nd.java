@@ -1,4 +1,4 @@
-package 2P.Lec3;
+package 2S.Lec2;
 
 public class ReverseLL2nd {
 
