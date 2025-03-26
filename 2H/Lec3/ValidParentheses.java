@@ -1,7 +1,6 @@
-package 2Q.Lec3;
+package 2H.Lec3;
 
 public class ValidParentheses {
-
     public boolean isValid(String s)
     {
         Stack<Character> st = new Stack<>();
